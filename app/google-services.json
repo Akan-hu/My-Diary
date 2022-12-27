@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221109886404",
+    "project_id": "note-app-e090f",
+    "storage_bucket": "note-app-e090f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221109886404:android:7fd318afcb422eea405891",
+        "android_client_info": {
+          "package_name": "android.example.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221109886404-utrcvf5jrje2o2tb27220mhq1ijmptbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJP-43TRXlRZiTGI5oCVauMoHcHRGeOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221109886404-utrcvf5jrje2o2tb27220mhq1ijmptbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

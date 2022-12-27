@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="enter_your_note_title_here">Enter Your note title here</string>
+    <string name="new_user_want_to_register">New user? want to register</string>
+</resources>
